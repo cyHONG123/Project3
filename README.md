@@ -12,4 +12,5 @@ ChenXue: creating node and edge component, most part of algorithm on finding sho
 Chongyuan Hong: creating node and edge component. find-node and data extract method. Partial shortest path finding method, dijkstra and direction method. Drawing component and paint component, resizable screen and map. JFrame visual. Read txt file method. Debug.
 
 The code can be run according to methods what project pdf mentioned, like "java streetmapping ur.txt --show". "--directions + id" would form a shortest path from origin point to given point and give out distance of shortest data.
+
 Our code cite and implement the Haversine Distance Algorithm on finding the distance between node. This method convert tow node of longitude and latitude data to distance betwee two. source: https://gist.github.com/vananth22/888ed9a22105670e7a4092bdcf0d72e4
