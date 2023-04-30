@@ -8,6 +8,7 @@
 The code use special node and edge element to read the node and connection writen in the txt file. Then the edge which contain node would be drawn out 
 by the JFrame screen, the screen which draw the map can be adjust on width and height. By entering directions method, user can find the shortest path from 
 original point to specific point by using djkstra algorithm. Then, the shortest path would be drawn on the map by red line. The distance of shortest path would also be printed. We overcome the specific problem like drawing map in suitable size according to map's mac width and height. Also, the problem on finding shortest path and recording shortest distance has been solved. There are two java file total, one is streetmapping.java we write, one is Haversine Distance cite an d implement on finding distance.
+
 ChenXue: creating node and edge component, most part of algorithm on finding shortest path of map and dijkstra algorithm. direction method code like cost recording and getcost method. cost initialize method, draw data pinpoint according to size of map and screen. Debug.
 Chongyuan Hong: creating node and edge component. find-node and data extract method. Partial shortest path finding method, dijkstra and direction method. Drawing component and paint component, resizable screen and map. JFrame visual. Read txt file method. Debug.
 
